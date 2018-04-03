@@ -6,7 +6,7 @@ The app is used for:
 - track the GPS position (in field perimeter marking)
 - add new fields
 
-##The map
-<p style="align:center;">
-<img src="screenshot/machocavallo.PNG" width="350"/>
+## The map
+<p align="center">
+<img src="screenshots/machocavallo.PNG" width="350"/>
 </p>
