@@ -1,0 +1,3 @@
+[submodule "machocavallo"]
+	path = machocavallo
+	url = git@github.com:SimoneMSR/machocavallo.git
