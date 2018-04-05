@@ -12,11 +12,10 @@ The app is used for:
 <img src="screenshots/machocavallo.PNG" width="350"/>
 </p>
 
-## Development
+## Installation
 
 ```
-npm install
 cd app
 npm install
-ionic serve
+cordova plugin add cordova-plugin-geolocation
 ```
